@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @synnep
-- 👀 I’m interested in music, movies and science!
-- 🌱 I’m currently learning python (and I'll definitely need some help) 
 - 📫 Email: synneped@viken.no
 
 <!---
